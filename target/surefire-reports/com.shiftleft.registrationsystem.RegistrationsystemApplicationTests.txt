@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shiftleft.registrationsystem.RegistrationsystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.478 s - in com.shiftleft.registrationsystem.RegistrationsystemApplicationTests
